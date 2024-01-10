@@ -32,9 +32,9 @@ if you want to install without looking for versions click [here](https://vencord
 
 
 <p>2. then go to settings and scroll down to themes</p>
-<img src="https://i.postimg.cc/nh0xFz4J/image.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.postimg.cc/nh0xFz4J/image.png" >
 <p>3. in the theme page go to online themes tab</p>
-<img src="https://i.postimg.cc/HkYDDGPR/image.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.postimg.cc/HkYDDGPR/image.png" >
 <p>4. and finally just paste this link there</p>
 
 ```
