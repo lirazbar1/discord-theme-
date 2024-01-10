@@ -28,7 +28,7 @@ Here're some of the project's best features:
 <p>1. first install vencord</p>
 
 
-if you want to install without looking for versions click [here]((https://vencord.dev/download/))
+if you want to install without looking for versions click [here](https://vencord.dev/download/)
 
 
 <p>2. then go to settings and scroll down to themes</p>
