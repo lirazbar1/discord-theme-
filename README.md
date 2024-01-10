@@ -27,9 +27,9 @@ Here're some of the project's best features:
 
 <p>1. first install vencord</p>
 
-```
-if you want to install without looking for versions click [theme preview](https://gibbu.github.io/ThemePreview/?file=https://lirazbar1.github.io/discord-theme-/the%20theme.css )
-```
+
+if you want to install without looking for versions click [here]([https://gibbu.github.io/ThemePreview/?file=https://lirazbar1.github.io/discord-theme-/the%20theme.css](https://vencord.dev/download/) )
+
 
 <p>2. then go to settings and scroll down to themes</p>
 <img src="https://i.postimg.cc/nh0xFz4J/image.png" alt="project-screenshot" width="400" height="400/">
